@@ -1,5 +1,5 @@
 import sys 
-vow='AEIOUaeiou'
+vow='aeiouAEIOU'
 d='BCDFGHJKLMNPQRSTVWXYZbcdfghjklmnpqrstvwxyz'
 c=input()
 if c in vow:
